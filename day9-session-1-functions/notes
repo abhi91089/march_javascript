@@ -1,0 +1,10 @@
+// define a class 
+    // blue print for an object 
+    // inside a class we defined properties & methods for the objects
+    // user defined data type
+
+// then create an object - instance of a class 
+    // all the properties and methods defined inside a class is now available for objects 
+
+
+// class like features, is made available via functions 
